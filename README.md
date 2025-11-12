@@ -5,14 +5,14 @@ I started learning software development in 2018 with *Python*, since then I spec
 *(like git, SQL etc)*.
 
 **Skills (Work in progress)**
-Programming Languages : Python | Javascript | C#
-Frameworks : Express.js
-General tools : HTML | CSS | git | SQL
-Stuff I know and maybe will forget that I know : Vite.js | (MySQL, Workbench, Postgres, pgAdmin) | VS Code
+-Programming Languages : Python | Javascript | C# <br>
+-Frameworks : Express.js <br>
+-General tools : HTML | CSS | git | SQL <br>
+-Stuff I know and maybe will forget that I know : Vite.js | (MySQL, Workbench, Postgres, pgAdmin) | VS Code <br>
 
 **Projects (In progress too)**
 Simple Front-End only web pages
 
 **My future**
-I haven't chosen a specific role yet...
+I haven't chosen a specific role yet... <br>
 It is just there is so much to learn and everything seems so interesting (except web dev lol)
