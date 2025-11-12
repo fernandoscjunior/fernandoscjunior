@@ -13,9 +13,6 @@ Stuff I know and maybe will forget that I know : Vite.js | (MySQL, Workbench, Po
 **Projects (In progress too)**
 Simple Front-End only web pages
 
-**GitHub Stats**
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoscjunior&show_icons=true&theme=radical)
-
 **My future**
 I haven't chosen a specific role yet...
 It is just there is so much to learn and everything seems so interesting (except web dev lol)
