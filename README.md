@@ -1,10 +1,9 @@
 # Hello, It's me Fernando Jr :D
 
-  I'm Fernando Costa Jr currently studying at *BYU-I* to become a software developer.
-I started learning software development in 2018 with *Python*, since then I specialized in Front-End development and the foundations of software development 
-*(like git, SQL etc)*.
+  I'm Fernando Costa Jr currently studying at **BYU-I** to become a software developer.
+I started learning software development in 2018 with Python, since then I specialized in Front-End development and the foundations of software development.
 
-**Skills (Work in progress)**
+**Skills (Work in progress)** <br>
 -Programming Languages : Python | Javascript | C# <br>
 -Frameworks : Express.js <br>
 -General tools : HTML | CSS | git | SQL <br>
