@@ -1,6 +1,17 @@
 # Hi there, It's-a-me Fernando :D
 
-  I'm Fernando Costa Jr currently studying at **BYU-I** to become a software developer.
-I started learning software development in 2016 with Python, since then I specialized in Front-End development and the foundations of software development.
+```bash
+# whoami
+Fernando Costa Jr
 
-If my page seems dead it is because I am studying all day, all night...👍🏻
+# echo "Currently studying at BYU-I to become a software developer."
+Currently studying at BYU-I to become a software developer.
+
+# history | grep 2016
+2016: Started learning software development with Python
+
+# ls skills/
+Front-End-Development  Foundations-of-Software-Development
+
+# uptime
+Studying all day, all night... 👍🏻
