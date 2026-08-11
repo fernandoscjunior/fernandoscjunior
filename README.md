@@ -7,13 +7,9 @@ My passion is to write good quality, minimalist and efficient code. I am always 
 ## My Expertises
 See my roadmap.sh profile (link in bio), it is the best way I know to keep track of what I know.
 
----
-
 ## My Current Goal
 Currently I'm prototyping a web app called **Nota** that allows anyone to learn and make songs online easily. <br/>
 The main idea is to help neurodivergent kids/people in general to create and have joy through music and technology.
-
----
 
 ## My Programming Story:
 - 2016 I started in Software Development studying Python with *Curso em Vídeo*.
