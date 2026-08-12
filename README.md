@@ -16,6 +16,6 @@ The main idea is to help neurodivergent kids/people in general to create and hav
 - 2018 I started my front-end (HTML, CSS, JS) and SQL studies with *Curso em Vídeo*.
 - 2021 I learned web development with Django, FLask. I also learned OOP in Python and Git basics with *Alura*.
 - 2024 I enroll at *BYU Pathway* to pursue my Bachelor's degree in software development.
-- 2025 I received my first professional certifications, Foundational C# by *Microsoft* and *freecodecamp* and Web & Computer Programming by *BYU-I*.
+- 2025 I received my first professional certifications, Foundational C# by *Microsoft* and Web & Computer Programming by *BYU-I*.
 - 2026 1st semester: I graduated with an Associate's degree in Software Development at *BYU-I* and I started *Harvard's* CS50x.
 - 2026 2nd semester: I was accepted in the *Google* Student Ambassador program.
