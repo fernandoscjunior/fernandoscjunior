@@ -11,7 +11,7 @@ See my roadmap.sh profile (link in bio), it is the best way I know to keep track
 Currently I'm prototyping a web app called **Nota** that allows anyone to learn and make songs online easily. <br/>
 The main idea is to help neurodivergent kids/people in general to create and have joy through music and technology.
 
-## My Programming Story:
+## My Programming Timeline:
 - 2016 I started in Software Development studying Python with *Curso em Vídeo*.
 - 2018 I started my front-end (HTML, CSS, JS) and SQL studies with *Curso em Vídeo*.
 - 2021 I learned web development with Django, FLask. I also learned OOP in Python and Git basics with *Alura*.
